@@ -1,4 +1,4 @@
-# EmoMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Multilabel Emotion Detection
+# EmoMix-3L: A Code-Mixed Dataset for Bangla-English-Hindi Emotion Detection
 
 **Publication**: *The 7th Workshop on Indian Language Data: Resources and Evaluation (WILDRE) under LREC-COLING-2024.*
 
@@ -12,7 +12,7 @@ If you utilize this dataset, kindly cite our paper.
 
 ```bibtex
 @article{raihan2024emomix,
-  title={EmoMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Multilabel Emotion Detection},
+  title={EmoMix-3L: A Code-Mixed Dataset for Bangla-English-Hindi Emotion Detection},
   author={Raihan, Md Nishat and Goswami, Dhiman and Mahmud, Antara and Anstasopoulos, Antonios and Zampieri, Marcos},
   journal={Proceedings of The 7th Workshop on Indian Language Data: Resources and Evaluation (WILDRE) (LREC-COLING)},
   year={2024}
