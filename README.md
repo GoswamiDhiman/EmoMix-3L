@@ -2,7 +2,7 @@
 
 **Publication**: *The 7th Workshop on Indian Language Data: Resources and Evaluation (WILDRE) under LREC-COLING-2024.*
 
-**Read in [arXiv](coming soon)** 
+
 
 ---
 
